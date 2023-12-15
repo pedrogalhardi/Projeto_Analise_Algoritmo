@@ -1,5 +1,5 @@
 # Trabalho Pratico II
-    O programa deverá carregar um grafo a partir de um arquivo texto (que o usuário
+O programa deverá carregar um grafo a partir de um arquivo texto (que o usuário
 irá especificar), como exemplificado no arquivo Teste.txt disponível em anexo a este
 documento. O arquivo Teste - Grafo.jpg apresenta uma visualização gráfica do grafo
 contido no arquivo Teste.txt;
@@ -26,3 +26,4 @@ deste algoritmo serão as arestas que compõem o caminho mínimo entres os
 vértices s e t;
 • Fluxo Máximo: algoritmo que identifica o fluxo máximo em grafo ponderado
 orientado.
+![image](https://github.com/pedrogalhardi/Projeto_Analise_Algoritmo/assets/61712871/0f2b8ff3-1585-47e7-9984-8303ec88158c)
